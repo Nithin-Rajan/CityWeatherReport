@@ -1,0 +1,10 @@
+E:\WeatherService\WeatherService\WeatherService\bin\Debug\netcoreapp2.0\WeatherService.deps.json
+E:\WeatherService\WeatherService\WeatherService\bin\Debug\netcoreapp2.0\WeatherService.runtimeconfig.json
+E:\WeatherService\WeatherService\WeatherService\bin\Debug\netcoreapp2.0\WeatherService.runtimeconfig.dev.json
+E:\WeatherService\WeatherService\WeatherService\bin\Debug\netcoreapp2.0\WeatherService.dll
+E:\WeatherService\WeatherService\WeatherService\bin\Debug\netcoreapp2.0\WeatherService.pdb
+E:\WeatherService\WeatherService\WeatherService\obj\Debug\netcoreapp2.0\WeatherService.csproj.CoreCompileInputs.cache
+E:\WeatherService\WeatherService\WeatherService\obj\Debug\netcoreapp2.0\WeatherService.AssemblyInfoInputs.cache
+E:\WeatherService\WeatherService\WeatherService\obj\Debug\netcoreapp2.0\WeatherService.AssemblyInfo.cs
+E:\WeatherService\WeatherService\WeatherService\obj\Debug\netcoreapp2.0\WeatherService.dll
+E:\WeatherService\WeatherService\WeatherService\obj\Debug\netcoreapp2.0\WeatherService.pdb
